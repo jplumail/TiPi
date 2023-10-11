@@ -71,3 +71,4 @@ Thumbs.db
 .directory
 
 .vscode
+target/
